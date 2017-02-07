@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Candal');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+h1 {
+	font-family: 'Candal', sans-serif;
+	font-size: 40px
+}
+
+h2 {
+   font-family: 'Allura', cursive;
+   font-size: 50px
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px
+}
+
 body {
 	background-color: black;
 }
@@ -9,15 +28,8 @@ body {
 		
 h1, h2, h3, ul, p {
 	color: white;
-<<<<<<< Updated upstream
-=======
+}
 
-}
-h2 {
-	font-style: italic;
-	font-size: 26px
->>>>>>> Stashed changes
-}
 
 * {
 	padding: 20;
@@ -61,14 +73,8 @@ h3 ul li {
 }
 	 
 p {
-<<<<<<< Updated upstream
-	font-size: 20px;
-=======
-	font-family: georgia, serif;
-	font-size: 20px;
-	marker-end: 40px
->>>>>>> Stashed changes
-
+	font-size: 25px;
+  
 }
 
 
@@ -76,8 +82,7 @@ p {
 
 
 
-<<<<<<< Updated upstream
-=======
 
 
->>>>>>> Stashed changes
+
+

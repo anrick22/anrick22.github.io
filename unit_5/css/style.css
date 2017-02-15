@@ -1,4 +1,14 @@
- @import url('https://fonts.googleapis.com/css?family=Allura|Candal');
+@import url('https://fonts.googleapis.com/css?family=Allura|Candal');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+aside {
+background-color: #E8C66A;	
+}
 
 h1 {
 	font-family: 'Candal', sans-serif;
@@ -7,18 +17,24 @@ h1 {
 
 h2 {
    font-family: 'Allura', cursive;
-   font-size: 40px
+   font-size: 50px
 }
 
+h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px
+}
 
 body {
 	background-color: black;
 }
 
- h1, h2  {
-		 text-align: center;
-			
-			}
+.img {
+	display: block;
+}
+h1, h2  {
+		 text-align: center;		
+}
 		
 h1, h2, h3, ul, p {
 	color: white;
@@ -30,8 +46,8 @@ h1, h2, h3, ul, p {
 	margin: 20;
 }
 
-	nav {
-	background-color: black;
+nav {
+	background-color: #E8C66A;
 	height: 50px;
 }
 nav ul {
@@ -53,7 +69,7 @@ nav li a {
 
 }
 
-nav a logo {
+nav .nav {
 	height: 3px
 }
 
@@ -67,13 +83,22 @@ h3 ul li {
 }
 	 
 p {
-	font-size: 20px;
+	font-size: 25px;
   
 }
 
-h3 {
-    font-family: "Times New Roman", Georgia, Serif;
-    }
+footer {
+	background-color:#FF957E;
+    padding: 30px
+
+
+}
+
+div, section {
+	background-color: #FFE2B8;
+	}   
+
+
 
 
 

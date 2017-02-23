@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Candal');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+aside {
+background-color: #E8C66A;	
+}
+
+h1 {
+	font-family: 'Candal', sans-serif;
+	font-size: 40px
+}
+
+h2 {
+   font-family: 'Allura', cursive;
+   font-size: 50px
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 30px
+}
+
+body {
+	background-color: black;
+}
+
+.img {
+	display: block;
+}
+h1, h2  {
+		 text-align: center;		
+}
+		
+h1, h2, h3, ul, p {
+	color: white;
+}
+
+
+* {
+	padding: 20;
+	margin: 20;
+}
+
+nav {
+	background-color: #E8C66A;
+	height: 50px;
+}
+nav ul {
+
+}
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+    float: right;
+    border-right: 1px solid #ccc;
+    text-align: center;
+}
+
+nav li a {
+	text-decoration: none;
+	color: white;
+	line-height:50px;
+	display: block; 
+
+}
+
+nav .nav {
+	height: 3px
+}
+
+li a: hover {
+	background-color: blue;
+	color:white;
+}
+
+h3 ul li {
+     color: white;
+}
+	 
+p {
+	font-size: 25px;
+  
+}
+
+footer {
+	clear: both;
+	background-color:#FF957E;
+    padding: 30px;
+    text-decoration: none;
+   
+  }
+
+div, section {
+	background-color: #FFE2B8;
+	}   
+
+
+.clearfix {
+	visibility: hidden;
+	display: block;
+	content: "";
+	height: 0;
+	font-size: 0;
+}
+
+
+
+
+
+
+

@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Allura|Candal');
-@import url('https://fonts.googleapis.com/css?family=Lobster');
-
+ @import url('https://fonts.googleapis.com/css?family=Allura|Candal');
 
 h1 {
 	font-family: 'Candal', sans-serif;
@@ -9,13 +7,9 @@ h1 {
 
 h2 {
    font-family: 'Allura', cursive;
-   font-size: 50px
+   font-size: 40px
 }
 
-h3 {
-    font-family: 'Pacifico', cursive;
-    font-size: 30px
-}
 
 body {
 	background-color: black;
@@ -73,11 +67,13 @@ h3 ul li {
 }
 	 
 p {
-	font-size: 25px;
+	font-size: 20px;
   
 }
 
-
+h3 {
+    font-family: "Times New Roman", Georgia, Serif;
+    }
 
 
 

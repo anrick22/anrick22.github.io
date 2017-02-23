@@ -1,3 +1,16 @@
+ @import url('https://fonts.googleapis.com/css?family=Allura|Candal');
+
+h1 {
+	font-family: 'Candal', sans-serif;
+	font-size: 40px
+}
+
+h2 {
+   font-family: 'Allura', cursive;
+   font-size: 40px
+}
+
+
 body {
 	background-color: black;
 }
@@ -18,6 +31,7 @@ h2 {
 	font-size: 26px
 >>>>>>> Stashed changes
 }
+
 
 * {
 	padding: 20;
@@ -66,10 +80,20 @@ p {
 =======
 	font-family: georgia, serif;
 	font-size: 20px;
+<<<<<<< HEAD
+  
+=======
 	marker-end: 40px
 >>>>>>> Stashed changes
 
+>>>>>>> origin/master
 }
+
+h3 {
+    font-family: "Times New Roman", Georgia, Serif;
+    }
+
+
 
 
 

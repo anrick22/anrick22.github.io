@@ -73,7 +73,11 @@ nav .nav {
 	height: 3px
 }
 
+<<<<<<< HEAD
 li a: hover {
+=======
+li a:hover {
+>>>>>>> origin/master
 	background-color: blue;
 	color:white;
 }
@@ -88,18 +92,27 @@ p {
 }
 
 footer {
+<<<<<<< HEAD
 	clear: both;
 	background-color:#FF957E;
     padding: 30px;
     text-decoration: none;
    
   }
+=======
+	background-color:#FF957E;
+    padding: 30px
+
+
+}
+>>>>>>> origin/master
 
 div, section {
 	background-color: #FFE2B8;
 	}   
 
 
+<<<<<<< HEAD
 .clearfix {
 	visibility: hidden;
 	display: block;
@@ -107,6 +120,9 @@ div, section {
 	height: 0;
 	font-size: 0;
 }
+=======
+
+>>>>>>> origin/master
 
 
 

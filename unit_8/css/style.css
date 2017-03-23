@@ -52,6 +52,7 @@ h1, h2, h3, ul, p {
 nav {
 	background-color: #E8C66A;
 	height: 3.5em;
+    padding: 1em;
 }
 nav ul {
 
@@ -215,3 +216,17 @@ strong {
         height: 400px;
     }
 }
+
+@media screen and (max-width: 784px) { 
+nav ul li {
+	display: block;
+    }
+}
+
+
+
+
+
+
+
+
